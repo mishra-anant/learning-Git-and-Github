@@ -1,0 +1,26 @@
+1.hello everyone welcome to the series hello git.
+
+2.motive of git ->track changes->to track changes we have to initialize git using the git init 
+command.
+
+3.now git is initialised in the git and git hub folder.
+
+4.git -init creates a hidden folder by the name .git.
+ 
+5.the changes we make are first tracked and then the record is maintained in this .git folder.
+
+6.git status -> status of the file
+
+7.git add -> git add . -> add all the files in the staging area
+
+8.git add filename -> adds the filename file in the staging area
+
+9.changes made before commiting.Following line comes on git status
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   hello.txt
+
+➜  git and github git:(master) ✗ 
+
