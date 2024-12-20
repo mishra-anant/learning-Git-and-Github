@@ -1,1 +1,6 @@
-1.hello i am a txt file.
+1. hello i am a txt file.
+
+2. git config --global user.name ->tells  us the user and email are the same or not which we have used 
+   in github should be here in git in terminal.
+
+3. git config --global user.email 
