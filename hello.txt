@@ -25,3 +25,5 @@ Changes not staged for commit:
 ➜  git and github git:(master) ✗ 
 
 10.changes made again.
+
+11.changes made in abc.txt and hello.txt simultaneously

@@ -4,3 +4,6 @@
    in github should be here in git in terminal.
 
 3. git config --global user.email 
+
+4.change made again. iam having fun learning git.
+changes made in hello.txt and abc.txt simultaneously.
